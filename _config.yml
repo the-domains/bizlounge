@@ -1,0 +1,14 @@
+layout_spectrum: 0.549826
+typography_spectrum: 0.5753746
+color:
+  saturation: 0.487656
+  lightness: 0.3685043
+  brandStrength: 0.7359844
+  rhythmicContrast: 0.8248096
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Bizlounge
