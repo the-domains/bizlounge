@@ -1,14 +1,26 @@
-layout_spectrum: 0.549826
-typography_spectrum: 0.5753746
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.487656
-  lightness: 0.3685043
-  brandStrength: 0.7359844
-  rhythmicContrast: 0.8248096
+  saturation: 0.7795699
+  brandStrength: 0.6810036
+  lightness: 0.5215054
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+  rhythmicContrast: 1
+typography_spectrum: 0.3960573
+layout_spectrum: 1
 name: Bizlounge
